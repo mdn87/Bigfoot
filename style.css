@@ -25,6 +25,10 @@
 .body {
     background-color: aquamarine;
 }
+.video {
+    display: flex;
+    align-content: right;
+}
 .petName {
     text-align: center;
     font-size: 72px;
